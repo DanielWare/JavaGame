@@ -1,18 +1,7 @@
 # JavaGame
 JavaGame was created in OOP class for final project
 
-
-Cover Page:
-•	Course Title: CMSC 3103 Object Oriented Software Design & Construction
-•	Semester: Fall 2015
-•	Name:
-•	UCO ID:
-•	Major (Computer Science, CS – Applied, CS – Information Science, Software Engineering)
-o	If you are in CS minor, write your major and CS minor.
-o	If you are an exchange student, write Exchange student.
-o	If none of the above, write your major.
-
- 
+REQUIREMENTS: 
 Section I: User Stories
 
 In this section, write User Stories in detail based on your finished program.

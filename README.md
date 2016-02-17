@@ -1,6 +1,9 @@
 # JavaGame
 JavaGame was created in OOP class for final project
 
+Final demonstraion of game and mechanics
+https://youtu.be/izHTbCEcpno
+
 REQUIREMENTS: 
 Section I: User Stories
 
